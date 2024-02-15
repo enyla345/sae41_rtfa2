@@ -2,3 +2,7 @@ def hello_world():
   print("Hello world!) 
 
 hello_world() 
+
+def advanced_hello_world():
+  name = input('enter your name')
+  print(f"Hello world, thank you {name} :) " ) 
