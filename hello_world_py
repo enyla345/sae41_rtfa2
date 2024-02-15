@@ -6,3 +6,8 @@ hello_world()
 def advanced_hello_world():
   name = input('enter your name')
   print(f"Hello world, thank you {name} :) " ) 
+
+def hello():
+  print("hello)
+
+hello()
